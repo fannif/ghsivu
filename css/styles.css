@@ -1,0 +1,20 @@
+h1 {
+  color: #303030;
+  margin-top: 1em;
+}
+
+h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #505050;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #707070;
+}
+
